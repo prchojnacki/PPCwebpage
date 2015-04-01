@@ -1,0 +1,17 @@
+/*CSS RESETS*/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrapper {
+	width: 900px;
+	height: 700px;
+	background-color: black;
+}
+
+#header {
+	width: 900px;
+	height: 100px;
+	background-color: #EDEDED
+}
